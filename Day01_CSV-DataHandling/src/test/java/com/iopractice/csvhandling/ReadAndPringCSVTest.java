@@ -7,7 +7,7 @@ import org.junit.jupiter.api.Test;
 public class ReadAndPringCSVTest {
     @Test
     public void csvTest(){
-        String filepath = "src\\main\\resources\\csvfile.txt";
+        String filepath = "src\\main\\resources\\csvfile.csv";
         String res = ReadAndPrintCSV.readcsvFile(filepath);
         Assertions.assertEquals(ReadAndPrintCSV.readcsvFile(filepath),res);
     }
