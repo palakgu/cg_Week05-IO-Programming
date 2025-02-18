@@ -1,0 +1,8 @@
+ID : 0199CS211109
+Name: palak
+Age: 23
+Marks: 89
+ID: 0199CS@11075
+Name: jyoti
+Age: 22
+MArks: 90
