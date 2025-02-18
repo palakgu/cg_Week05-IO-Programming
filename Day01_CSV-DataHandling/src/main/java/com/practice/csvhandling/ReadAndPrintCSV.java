@@ -6,7 +6,7 @@ import java.io.FileReader;
 
 public class ReadAndPrintCSV {
     public static void main(String[] args) {
-        String filepath = "csvfile.txt";
+        String filepath = "src\\main\\resources\\csvfile.txt";
         System.out.println(readcsvFile(filepath));
 
     }
