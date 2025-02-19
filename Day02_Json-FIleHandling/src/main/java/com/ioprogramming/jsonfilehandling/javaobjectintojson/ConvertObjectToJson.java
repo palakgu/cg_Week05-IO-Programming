@@ -6,7 +6,7 @@ import java.io.*;
 public class ConvertObjectToJson {
     public static void main(String[] args) {
         try {
-            Car car = new Car("BMW", "M-5", 2024);
+            Car car = new Car("Audi", "M-5", 2024);
             ObjectMapper objectMapper = new ObjectMapper();
             objectMapper.writeValue(new File("src\\main\\resources\\output.json"), car);
             System.out.println("JSON file created successfully!");

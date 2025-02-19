@@ -1,18 +1,18 @@
 package com.ioprogramming.jsonfilehandling.javaobjectintojson;
 
 class Car {
-    private String brand;
+    private String brands;
     private String model;
     private int year;
 
     public Car(String brand, String model, int year) {
-        this.brand = brand;
+        this.brands = brand;
         this.model = model;
         this.year = year;
     }
 
     public  String getBrand() {
-        return brand;
+        return brands;
     }
 
     public  String getModel() {
