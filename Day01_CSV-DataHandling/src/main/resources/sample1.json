@@ -1,0 +1,42 @@
+[
+  {
+    "student_id": 1,
+    "student_name": "Arjun Sharma",
+    "course": "Mathematics",
+    "grade": "A",
+    "email": "arjun.sharma@example.com",
+    "phone_number": "+91-9876543210"
+  },
+  {
+    "student_id": 2,
+    "student_name": "Priya Mehta",
+    "course": "Physics",
+    "grade": "B",
+    "email": "priya.mehta@example.com",
+    "phone_number": "+91-9876543211"
+  },
+  {
+    "student_id": 3,
+    "student_name": "Rahul Kumar",
+    "course": "Chemistry",
+    "grade": "C",
+    "email": "rahul.kumar@example.com",
+    "phone_number": "+91-9876543212"
+  },
+  {
+    "student_id": 4,
+    "student_name": "Ananya Singh",
+    "course": "Biology",
+    "grade": "A",
+    "email": "ananya.singh@example.com",
+    "phone_number": "+91-9876543213"
+  },
+  {
+    "student_id": 5,
+    "student_name": "Kavya Patel",
+    "course": "Computer Science",
+    "grade": "B",
+    "email": "kavya.patel@example.com",
+    "phone_number": "+91-9876543214"
+  }
+]
