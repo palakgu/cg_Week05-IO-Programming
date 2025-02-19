@@ -8,7 +8,7 @@ public class ConvertListToJsonArray {
     public static void main(String[] args) {
         try {
             List<Car> cars = new ArrayList<>();
-            cars.add(new Car("BMW", "M5", 2024));
+            cars.add(new Car("BMW", "M6", 2024));
             cars.add(new Car("Audi", "A6", 2023));
             cars.add(new Car("Tesla", "Model S", 2022));
 
