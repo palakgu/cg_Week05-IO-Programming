@@ -1,0 +1,22 @@
+{
+  "books": [
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "publishedYear": 1960,
+      "genres": ["Fiction", "Classics"]
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "publishedYear": 1949,
+      "genres": ["Dystopian", "Science Fiction"]
+    },
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "publishedYear": 1925,
+      "genres": ["Fiction", "Classics"]
+    }
+  ]
+}
