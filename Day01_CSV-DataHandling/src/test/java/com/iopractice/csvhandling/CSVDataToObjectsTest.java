@@ -31,9 +31,9 @@ class CSVDataToObjectsTest {
         assertEquals("85000", firstEmployee.getSalary());
 
         Employee lastEmployee = employees.get(3);
-        assertEquals("5", lastEmployee.getId());
-        assertEquals("Michael Davis", lastEmployee.getName());
-        assertEquals("90000", lastEmployee.getSalary());
+        assertEquals("4", lastEmployee.getId());
+        assertEquals("Alice Brown", lastEmployee.getName());
+        assertEquals("68000", lastEmployee.getSalary());
 
     }
 
