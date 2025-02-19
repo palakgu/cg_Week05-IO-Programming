@@ -1,0 +1,6 @@
+student_id,student_name,course,grade,email,phone_number
+1,Arjun Sharma,Mathematics,A,arjun.sharma@example.com,+91-9876543210
+2,Priya Mehta,Physics,B,priya.mehta@example.com,+91-9876543211
+3,Rahul Kumar,Chemistry,C,rahul.kumar@example.com,+91-9876543212
+4,Ananya Singh,Biology,A,ananya.singh@example.com,+91-9876543213
+5,Kavya Patel,Computer Science,B,kavya.patel@example.com,+91-9876543214
