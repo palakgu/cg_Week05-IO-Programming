@@ -1,0 +1,6 @@
+employee_id,employee_name,department,salary,gmail,phone_number
+1,John Doe,Engineering,85000,john.doe@gmail.com,+1-234-567-8901
+2,Jane Smith,Marketing,75000,jane.smith@gmail.com,+1-234-567-8902
+3,Bob Johnson,Sales,70000,bob.johnson@gmail.com,+1-234-567-8903
+4,Alice Brown,HR,68000,alice.brown@gmail.com,+1-234-567-8904
+5,Michael Davis,Finance,90000,michael.davis@gmail.com,+1-234-567-8905
