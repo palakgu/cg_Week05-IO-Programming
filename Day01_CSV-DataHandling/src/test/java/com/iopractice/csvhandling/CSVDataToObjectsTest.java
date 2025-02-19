@@ -20,9 +20,9 @@ class CSVDataToObjectsTest {
     public void testConvertCSVToEmployees() {
         List<Employee> employees = ConvertCSVToObjects.convertCSVToEmployees(testFilePath);
 
-        //assertNotNull(employees);
-        //assertFalse(employees.isEmpty());
-        //assertEquals(5, employees.size());
+        assertNotNull(employees);
+        assertFalse(employees.isEmpty());
+        assertEquals(5, employees.size());
 
         Employee firstEmployee = employees.get(0);
         assertEquals("1", firstEmployee.getId());
